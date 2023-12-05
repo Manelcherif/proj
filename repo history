@@ -1,0 +1,8 @@
+  | UNMODIFIED-----------------------> MODIFIED------------------------------>STAGED
+  |
+  |                changes
+  |                                            git add "add evry changes"
+  |<----------------------------------------------------------------------------
+  |                         git commit -m "masseg"
+  |
+  time line  // git loge--> all commit in history
