@@ -6,3 +6,6 @@
   |                         git commit -m "masseg"
   |
   time line  // git log--> all commit in history
+e042bb19bbe2640a3fc27f67efb7c3f0bb2ee01d -> hash
+ git checkout e042bb19bbe2640a3fc27f67efb7c3f0bb2ee01d -> rturn backg
+ git checkout master ->return  to the end 
